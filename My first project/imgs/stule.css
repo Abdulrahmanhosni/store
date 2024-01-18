@@ -1,0 +1,19 @@
+ body{
+    background-color: black;
+}
+.men{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+img{
+    width: 320px;
+    height:170px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px white;
+}
+.men h2{
+    color: wheat;
+    width: 100px;
+    height: 5px;
+}
